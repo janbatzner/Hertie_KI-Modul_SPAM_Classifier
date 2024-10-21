@@ -7,4 +7,8 @@ Wir widmen uns einem bekannten Beispiel aus Ihrem beruflichen und privaten Allta
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lnQO5RwtL8-KieeKTMUGrdK86npwckcT?usp=sharing) 
 
-Referenz: Xydi, Panagiota (2020): Text classification hands-on exercise, EPFL Extension School Workshop, Applied Machine Learning Days.
+Referenz: 
+Xydi, Panagiota (2020): Text classification hands-on exercise, EPFL Extension School Workshop, Applied Machine Learning Days.
+Müller, Andreas C.; Guido, Sarah (2017): Introduction to Machine Learning with Python. A Guide for Data Scientists. O’Reilly Sebastopol, CA. Chapter 7. Working with Text Data, p. 329-362.
+
+Datensatz: [Apache Spam Assassin](https://spamassassin.apache.org) enthält ca. 6.000 gelabelte E-Mails mit einem Spam-Anteil von etwa 30 %.
